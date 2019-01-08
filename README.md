@@ -7,6 +7,7 @@ Please contribute your tips, examples, and best practices for managing and admin
 [The awesome manifesto](https://github.com/sindresorhus/awesome/blob/master/awesome.md)
 ## Contribution Guidelines
 ## Code of Conduct
+[Code of conduct](code-of-conduct.md)
 ## License
 <p xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
   <a rel="license"
