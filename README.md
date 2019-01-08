@@ -1,3 +1,4 @@
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 # dspace-awesome
 List of awesome DSpace-related resources compiled by the DSpace Community Advisory Team
 
