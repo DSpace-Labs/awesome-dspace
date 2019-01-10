@@ -15,8 +15,8 @@ Please contribute your tips, examples, and best practices for managing and admin
 ## Tutorials
 ## Feature reference
 ## DSpace instances with notable features
-## Integrations
 - University of Toronto TSpace - Real time downloads map, https://tspace.library.utoronto.ca/, using Leaflet, https://leafletjs.com/.
+## Integrations
 ## Miscellaneous tools
 - [DSpace-Docker-Images](https://github.com/DSpace-Labs/DSpace-Docker-Images) - Repository for developing and managing published Docker images for DSpace development
 - AIP-Files - Repository of re-usable AIP files for DSpace testing
