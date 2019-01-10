@@ -18,8 +18,8 @@ Please contribute your tips, examples, and best practices for managing and admin
 - University of Toronto TSpace - Real time downloads map, https://tspace.library.utoronto.ca/, using Leaflet, https://leafletjs.com/.
 ## Integrations
 ## Miscellaneous tools
+- [AIP-Files](https://github.com/DSpace-Labs/AIP-Files) - Repository of re-usable AIP files for DSpace testing
 - [DSpace-Docker-Images](https://github.com/DSpace-Labs/DSpace-Docker-Images) - Repository for developing and managing published Docker images for DSpace development
-- AIP-Files - Repository of re-usable AIP files for DSpace testing
 ## Best practices
 ### Developer
 ### Repository Manager/Administrator
