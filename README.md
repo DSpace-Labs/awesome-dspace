@@ -15,7 +15,7 @@ Please contribute your tips, examples, and best practices for managing and admin
 ## Tutorials
 ## Feature reference
 ## DSpace instances with notable features
-- University of Toronto TSpace - Real time downloads map, https://tspace.library.utoronto.ca/, using Leaflet, https://leafletjs.com/.
+- [University of Toronto TSpace](https://tspace.library.utoronto.ca/) - Real time downloads map, using [Leaflet](https://leafletjs.com/)
 ## Integrations
 ## Miscellaneous tools
 - [AIP-Files](https://github.com/DSpace-Labs/AIP-Files) - Repository of re-usable AIP files for DSpace testing
