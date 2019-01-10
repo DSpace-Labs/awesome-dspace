@@ -1,6 +1,6 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 # dspace-awesome
-A list of awesome DSpace-related resources compiled by the DSpace Community Advisory Team
+A list of awesome DSpace-related resources compiled by the [DSpace Community Advisory Team](https://wiki.duraspace.org/display/cmtygp/DSpace+Community+Advisory+Team)
 
 ## Contribution Guidelines
 
@@ -13,13 +13,13 @@ Please contribute your tips, examples, and best practices for managing and admin
 - [DSpace Code](https://github.com/DSpace/DSpace)
 
 ## Tutorials
-## Feature Reference
-## DSpace Instances with notable features
+## Feature reference
+## DSpace instances with notable features
 ## Integrations
-## Miscellaneous Tools
-## Best Practices
+## Miscellaneous tools
+## Best practices
 ### Developer
-### Repository Admin
+### Repository Manager/Administrator
 
 ## Contributor Code of Conduct
 [Contributor Code of conduct](code-of-conduct.md)
