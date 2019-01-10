@@ -1,15 +1,25 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 # dspace-awesome
-List of awesome DSpace-related resources compiled by the DSpace Community Advisory Team
+A list of awesome DSpace-related resources compiled by the DSpace Community Advisory Team
 
-Please contribute your tips, examples, and best practices for managing and administering DSpace repositories, particularly metadata and content.
-
-[The awesome manifesto](https://github.com/sindresorhus/awesome/blob/master/awesome.md)
 ## Contribution Guidelines
 
-Please follow the instructions in [Adding something to an awesome list](https://github.com/sindresorhus/awesome/blob/master/contributing.md#adding-something-to-an-awesome-list) to create a Pull Request. 
+Please contribute your tips, examples, and best practices for managing and administering DSpace repositories. Either follow the instructions in [Adding something to an awesome list](https://github.com/sindresorhus/awesome/blob/master/contributing.md#adding-something-to-an-awesome-list) to create a Pull Request or create an issue in the [Issue Tracker](https://github.com/DSpace-Labs/awesome-dspace/issues).
 
-Alternatively, you may create an issue in the [Issue Tracker](https://github.com/DSpace-Labs/awesome-dspace/issues).
+## General Reference for DSpace
+
+- [DSpace Support](https://wiki.duraspace.org/display/DSPACE/Support)
+- [DSpace Documentation](https://wiki.duraspace.org/display/DSDOC6x/DSpace+6.x+Documentation)
+- [DSpace Code](https://github.com/DSpace/DSpace)
+
+## Tutorials
+## Feature Reference
+## DSpace Instances with notable features
+## Integrations
+## Miscellaneous Tools
+## Best Practices
+### Developer
+### Repository Admin
 
 ## Contributor Code of Conduct
 [Contributor Code of conduct](code-of-conduct.md)
