@@ -6,6 +6,7 @@ Please contribute your tips, examples, and best practices for managing and admin
 
 [The awesome manifesto](https://github.com/sindresorhus/awesome/blob/master/awesome.md)
 ## Contribution Guidelines
+Please follow the instructions in https://github.com/sindresorhus/awesome/blob/master/contributing.md to create a Pull Request. Alternatively, you may create an issue in the [Issue Tracker](https://github.com/DSpace-Labs/awesome-dspace/issues).
 ## Contributor Code of Conduct
 [Contributor Code of conduct](code-of-conduct.md)
 ## License
