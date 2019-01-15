@@ -1,5 +1,5 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-# dspace-awesome
+# awesome-dspace
 A list of awesome DSpace-related resources compiled by the [DSpace Community Advisory Team](https://wiki.duraspace.org/display/cmtygp/DSpace+Community+Advisory+Team)
 
 ## Contribution Guidelines
@@ -20,6 +20,7 @@ Please contribute your tips, examples, and best practices for managing and admin
 ## Miscellaneous tools
 - [AIP-Files](https://github.com/DSpace-Labs/AIP-Files) - Repository of re-usable AIP files for DSpace testing
 - [DSpace-Docker-Images](https://github.com/DSpace-Labs/DSpace-Docker-Images) - Repository for developing and managing published Docker images for DSpace development
+- [Extensions and Addons Work](https://wiki.duraspace.org/display/DSPACE/Extensions+and+Addons+Work) - list of DSpace Addons
 ## Best practices
 ### Developer
 ### Repository Manager/Administrator
