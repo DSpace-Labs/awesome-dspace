@@ -22,6 +22,7 @@ Please contribute your tips, examples, and best practices for managing and admin
 - [AIP-Files](https://github.com/DSpace-Labs/AIP-Files) - Repository of re-usable AIP files for DSpace testing
 - [DSpace-Docker-Images](https://github.com/DSpace-Labs/DSpace-Docker-Images) - Repository for developing and managing published Docker images for DSpace development
 - [Extensions and Addons Work](https://wiki.duraspace.org/display/DSPACE/Extensions+and+Addons+Work) - list of DSpace Addons
+- [DSpace Simple Archive importer](https://github.com/utlib/dspace_simple_archives_import) - a tool for batch ingest of PDF + XML metadata packages (e.g. article transfers from a publisher): extracts zip packages, crosswalks XML metadata into DC, makes DSpace Simple Archive and invokes DSpace script to import 
 ## Best practices
 ### Developer
 ### Repository Manager/Administrator
