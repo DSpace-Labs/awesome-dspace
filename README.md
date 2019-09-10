@@ -13,6 +13,7 @@ Please contribute your tips, examples, and best practices for managing and admin
 - [DSpace Code](https://github.com/DSpace/DSpace)
 
 ## Tutorials
+- [DSpace 6 REST Report Tutorial](https://github.com/terrywbrady/restReportTutorial/blob/master/README.md) - Video overview of metadata curation/quality control tools introduced in DSpace 6.  Includes tutorial steps that can be performed on demo.dspace.org.
 ## Feature reference
 ## DSpace instances with notable features
 - [University of Toronto TSpace](https://tspace.library.utoronto.ca/) - Real time downloads map, using [Leaflet](https://leafletjs.com/)
